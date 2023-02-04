@@ -1,0 +1,33 @@
+{
+  "title": "Daur Uang Artikel",
+  "articles": [
+    {
+      "id": "1",
+      "title": "Daur Uang : Solusi Tukar Uang Jadi Sampah",
+      "image": "https://raw.githubusercontent.com/Yudha-ard/uas-data/main/pexels-krizjohn-rosales-761297%201.png",
+      "date": "Surabaya, 25 Januari 2023",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": "2",
+      "title": "Raih Kekayaan Dengan Tutup Botol",
+      "image": "https://raw.githubusercontent.com/Yudha-ard/uas-data/main/pexels-mali-maeder-802221%202.png",
+      "date": "Surabaya, 27 Januari 2023",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": "3",
+      "title": "Daur Uang : Solusi Tukar Uang Jadi Sampah",
+      "image": "https://raw.githubusercontent.com/Yudha-ard/uas-data/main/pexels-krizjohn-rosales-761297%201.png",
+      "date": "Surabaya, 29 Januari 2023",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": "4",
+      "title": "Raih Kekayaan Dengan Tutup Botol",
+      "image": "https://raw.githubusercontent.com/Yudha-ard/uas-data/main/pexels-mali-maeder-802221%202.png",
+      "date": "Surabaya, 31 Januari 2023",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ]
+}
